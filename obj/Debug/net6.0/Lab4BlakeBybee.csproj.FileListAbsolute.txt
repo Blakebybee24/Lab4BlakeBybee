@@ -1,0 +1,15 @@
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\bin\Debug\net6.0\Lab4BlakeBybee.exe
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\bin\Debug\net6.0\Lab4BlakeBybee.deps.json
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\bin\Debug\net6.0\Lab4BlakeBybee.runtimeconfig.json
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\bin\Debug\net6.0\Lab4BlakeBybee.dll
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\bin\Debug\net6.0\Lab4BlakeBybee.pdb
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\obj\Debug\net6.0\Lab4BlakeBybee.csproj.AssemblyReference.cache
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\obj\Debug\net6.0\Lab4BlakeBybee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\obj\Debug\net6.0\Lab4BlakeBybee.AssemblyInfoInputs.cache
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\obj\Debug\net6.0\Lab4BlakeBybee.AssemblyInfo.cs
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\obj\Debug\net6.0\Lab4BlakeBybee.csproj.CoreCompileInputs.cache
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\obj\Debug\net6.0\Lab4BlakeBybee.dll
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\obj\Debug\net6.0\refint\Lab4BlakeBybee.dll
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\obj\Debug\net6.0\Lab4BlakeBybee.pdb
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\obj\Debug\net6.0\Lab4BlakeBybee.genruntimeconfig.cache
+C:\Users\blake\c#\lab4\Lab4BlakeBybee\obj\Debug\net6.0\ref\Lab4BlakeBybee.dll
